@@ -2,7 +2,7 @@
 
 I'm a frontend dev / UI dev / design engineer / whatever based in Manchester in the UK.
 
-I work full time, have 2 x kids, and love Judo 🥋, in y spare time I work on the following
+I work full time, have 2 x kids, and love Judo 🥋, in my spare time I work on the following:
 
 ⚡️ [zippystarter](https://zippystarter.com)
 
@@ -12,7 +12,7 @@ I work full time, have 2 x kids, and love Judo 🥋, in y spare time I work on t
 
 📸 [og image checker](https://ogimage.info)
 
-I sometimes do freelance work, and if I'm not free have a network of developers I can recommend.
+I sometimes do freelance work, and if I'm not free have a network of developers I can recommend. Learn more [about me](https://morganfeeney.com/about).
 
 If you need something [get in touch](https://morganfeeney.com/contact).
 
