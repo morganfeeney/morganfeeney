@@ -4,13 +4,13 @@ I'm a frontend dev / UI dev / design engineer / whatever based in Manchester in 
 
 I work full time, have 2 x kids, and love Judo 🥋, in y spare time I work on the following
 
-[zippystarter](https://zippystarter.com)
+⚡️ [zippystarter](https://zippystarter.com)
 
-[shadcn theme generator](https://zippystarter.com/tools/shadcn-ui-theme-generator)
+🎨 [shadcn theme generator](https://zippystarter.com/tools/shadcn-ui-theme-generator)
 
-[shadcn themes](https://zippystarter.com/tools/shadcn-ui-theme-generator)
+🎨 [shadcn themes](https://zippystarter.com/tools/shadcn-ui-theme-generator)
 
-[og image checker](https://ogimage.info)
+📸 [og image checker](https://ogimage.info)
 
 I sometimes do freelance work, and if I'm not free have a network of developers I can recommend, if you need something [get in touch](https://morganfeeney.com/contact).
 
