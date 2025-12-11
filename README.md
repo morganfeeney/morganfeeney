@@ -12,7 +12,9 @@ I work full time, have 2 x kids, and love Judo 🥋, in y spare time I work on t
 
 📸 [og image checker](https://ogimage.info)
 
-I sometimes do freelance work, and if I'm not free have a network of developers I can recommend, if you need something [get in touch](https://morganfeeney.com/contact).
+I sometimes do freelance work, and if I'm not free have a network of developers I can recommend.
+
+If you need something [get in touch](https://morganfeeney.com/contact).
 
 <!--
 **morganfeeney/morganfeeney** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
