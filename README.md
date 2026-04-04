@@ -6,7 +6,7 @@ I work full time, have 2 x kids, and love Judo 🥋, in my spare time I work on 
 
 ⚡️ [zippystarter](https://zippystarter.com)
 
-🎨 [shadcn presets](https://shadcnpreset.com)
+🎨 [shadcn preset](https://shadcnpreset.com)
 
 🎨 [shadcn theme generator](https://zippystarter.com/tools/shadcn-ui-theme-generator)
 
