@@ -1,34 +1,37 @@
-## Hi there 👋
+# Hi, I'm Morgan 👋
 
-I'm a frontend dev / UI dev / design engineer / whatever based in Manchester in the UK.
+Frontend developer, design engineer, and product builder based in Manchester, UK.
 
-I work full time, have 2 x kids, and love Judo 🥋, in my spare time I work on the following:
+I've spent the last decade building websites and products that generate leads, sales, and recurring revenue.
 
-⚡️ [zippystarter](https://zippystarter.com)
+By day, I build products for clients and employers. Outside of work, I'm usually building side projects, spending time with my wife and kids, or training Judo 🥋.
 
-🎨 [shadcn preset](https://shadcnpreset.com)
+I enjoy turning ideas into polished products with a strong focus on UI, UX, performance, accessibility, and SEO.
 
-🎨 [shadcn theme generator](https://zippystarter.com/tools/shadcn-ui-theme-generator)
+## Currently building
 
-🎨 [shadcn themes](https://zippystarter.com/tools/shadcn-ui-theme-generator)
+⚡️ **ZippyStarter** — A production-ready Next.js SaaS starter kit helping developers launch products faster.
+https://zippystarter.com
 
-📸 [og image checker](https://ogimage.info)
+🎨 **shadcn preset** — Browse, compare, and discover thousands of shadcn/ui theme presets.
+https://shadcnpreset.com
 
-I sometimes do freelance work, and if I'm not free have a network of developers I can recommend. Learn more [about me](https://morganfeeney.com/about).
+## Other projects
 
-If you need something [get in touch](https://morganfeeney.com/contact).
+🎨 **shadcn theme generator** — Generate custom shadcn/ui themes in seconds.
+https://zippystarter.com/tools/shadcn-ui-theme-generator
 
-<!--
-**morganfeeney/morganfeeney** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+📸 **OG Image Checker** — Quickly validate Open Graph images and social sharing previews.
+https://ogimage.info
 
-Here are some ideas to get you started:
+## Tech
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Next.js • React • TypeScript • Tailwind CSS • shadcn/ui • Design Systems • Accessibility • SEO
+
+## Freelance
+
+I occasionally take on freelance work, helping businesses build SaaS products, e-commerce stores, marketing websites, landing pages, and design systems. If I'm unavailable, I can usually recommend someone from my network.
+
+👉 About me: https://morganfeeney.com/about
+
+👉 Contact: https://morganfeeney.com/contact
