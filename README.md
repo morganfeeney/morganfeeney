@@ -10,18 +10,18 @@ I enjoy turning ideas into polished products with a strong focus on UI, UX, perf
 
 ## Currently building
 
-⚡️ **ZippyStarter** — A production-ready Next.js SaaS starter kit helping developers launch products faster.
-https://zippystarter.com
-
-🎨 **shadcn preset** — Browse, compare, and discover thousands of shadcn/ui theme presets.
+🎨 **shadcnpreset** — Browse, compare, and discover thousands of shadcn/ui theme presets.
 https://shadcnpreset.com
+
+⚡️ **ZippyStarter** — A suite of production-ready Next.js SaaS starter kits, templates and component library.
+https://zippystarter.com
 
 ## Other projects
 
 🎨 **shadcn theme generator** — Generate custom shadcn/ui themes in seconds.
 https://zippystarter.com/tools/shadcn-ui-theme-generator
 
-📸 **OG Image Checker** — Quickly validate Open Graph images and social sharing previews.
+📸 **OG Image** — Quickly validate Open Graph images and social sharing previews.
 https://ogimage.info
 
 ## Tech
@@ -30,8 +30,10 @@ Next.js • React • TypeScript • Tailwind CSS • shadcn/ui • Design Syste
 
 ## Freelance
 
-I occasionally take on freelance work, helping businesses build SaaS products, e-commerce stores, marketing websites, landing pages, and design systems. If I'm unavailable, I can usually recommend someone from my network.
+I take on freelance work, helping businesses build SaaS products, e-commerce stores, marketing websites, landing pages, and design systems. If I'm unavailable, I can usually recommend someone from my network.
 
 👉 About me: https://morganfeeney.com/about
 
 👉 Contact: https://morganfeeney.com/contact
+
+☕️ Buy me a coffee: https://buymeacoffee.com/morganf
