@@ -1,5 +1,3 @@
-# Hi, I'm Morgan 👋
-
 Frontend developer, design engineer, and product builder based in Manchester, UK.
 I've spent the last decade building websites and products that generate leads, sales, and recurring revenue.
 
